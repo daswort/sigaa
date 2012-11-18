@@ -13,7 +13,7 @@ Instalación
 ------------
 Por el momento no se darán detalles sobre la instalación de este software.
 
-Modulos externos
+Módulos externos
 ----------------
 - Zend Framework 2
 - Zend Developer Tools
